@@ -1,0 +1,22 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoinovNikita/ajs-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoinovNikita/ajs-node/issues"
+  },
+  "homepage": "https://github.com/VoinovNikita/ajs-node#readme",
+  "dependencies": {
+    "@voinovnikita/ajs": "^1.0.0"
+  }
+}
